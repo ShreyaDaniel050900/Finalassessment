@@ -2,8 +2,8 @@
  * @file data.c
  * @brief Performs simple data manipulation
  *
- * @author vtotient
- * @date April 22, 2019
+ * @author Shreya Daniel
+ * @date April 11, 2021
  */
 
 #include "data.h"
