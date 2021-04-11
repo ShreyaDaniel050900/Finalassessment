@@ -27,8 +27,8 @@
 #      HOST - Default platform
 #      MSP342 - Target cross-compiled platform
 #
-# Author: vtotient
-# Date:   April 13, 2019
+# Author: Shreya Daniel
+# Date:   April 12, 2021
 #
 #------------------------------------------------------------------------------
 include sources.mk
