@@ -12,8 +12,8 @@
  * @file stats.c 
  * @brief Preforms statistical analysis on a dataset. 
  *
- * @author vtotient
- * @date April 7, 2019
+ * @author Shreya Daniel
+ * @date April 11, 2021
  *
  */
 
